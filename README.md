@@ -1,3 +1,14 @@
+# QRCode Generator
+
+
+##technologies used
++ React.JS
++ Css3
++ Html5
++ javaScript
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
