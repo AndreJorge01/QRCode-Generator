@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/86026272/138533319-43a1a9d4-221e-481c-
 + React.JS
 + CSS
 + HTML
-+ javaScript.
++ javaScript
 
 
 
