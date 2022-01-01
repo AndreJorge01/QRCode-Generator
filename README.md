@@ -4,7 +4,7 @@
 https://user-images.githubusercontent.com/86026272/138533319-43a1a9d4-221e-481c-891d-22edd19e5ba9.mp4
 
 ## technologies used
-+ React.JS.
++ React.
 + CSS.
 + HTML.
 + javaScript.
