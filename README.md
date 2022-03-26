@@ -1,5 +1,5 @@
 ![qrcode photo](https://user-images.githubusercontent.com/86026272/138533143-6e42761a-9920-4c8c-b4ab-b028d4ec9053.PNG)
-# QRCode Generator
+# QRCode Generator.
 
 https://user-images.githubusercontent.com/86026272/138533319-43a1a9d4-221e-481c-891d-22edd19e5ba9.mp4
 
